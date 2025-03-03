@@ -9,6 +9,28 @@ another test push
 python script with ask for input, then it will check weather or not it was created by Ai or hand written.
 
 ---
+# how it works: three ways in detecting if Ai
+1. Repetitive and Overly Formal Structure
+    AI-generated text often repeats phrases or follows rigid sentence structures.
+    It may lack natural flow, overuse transition words, or over-explain simple concepts.
+Example:
+    "Artificial Intelligence is a revolutionary technology. It has many applications. Artificial Intelligence is used in various industries."
+     Human writing would naturally vary sentence structure and avoid redundancy.
+2. Lack of Personal Touch or Real-World Knowledge
+    AI tends to generate generic statements without genuine opinions, emotions, or experiences.
+    AI might provide surface-level answers without deep insight.
+Example:
+    AI: "Running is a great way to stay fit. It is a common exercise recommended for health."
+    Human: "I started running last year, and while it's tough at first, the energy boost afterward makes it worth it!"
+3. Logical Inconsistencies or Hallucinations
+    AI sometimes hallucinates facts, making bold but inaccurate claims.
+    It may contradict itself in long-form text.
+Example:
+    AI: "Elon Musk founded OpenAI in 2015. OpenAI was created by a group of researchers with no involvement from Elon Musk." (Contradiction)
+    AI: "The Eiffel Tower, built in 1987, is the tallest building in New York." (Completely wrong)
+
+
+---
 ### **1. Load the Document**
 Copy paste sample text into prompt
 
