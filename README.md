@@ -42,8 +42,44 @@ cross checks with known ai responces
 ---
 
 ## **Example Queries and Outputs**
+# Human example 1:
+Input:
+Man, I can’t believe how crazy the weather has been lately. It was sunny this morning, and now it’s pouring. Classic San Diego.
 
+Output:
+This text is likely human-made with 91.2% confidence.
 
+# Human example 2:
+Input:
+Back in college, I pulled an all-nighter to finish a project. I drank way too much coffee, and by 4 AM, I was hallucinating a little. Never again.
+
+Output:
+This text is likely human-made with 85.6% confidence.
+# Human example 3:
+Input:
+I miss my grandma’s cooking. She made the best tamales, and no matter how hard I try, I can never quite get them to taste the same.
+
+Output:
+This text is likely human-made with 94.3% confidence.
 ---
+# Ai example 1:
 
+Input:
+The weather patterns in San Diego exhibit significant variability due to coastal influences. This results in a mixture of sunny and rainy conditions within a short time frame.
+
+Expected Output:
+This text is likely AI-generated with 87.5% confidence.
+
+# Ai example 2:
+Input:
+All-nighters are commonly used by students to complete assignments. These nights often involve the consumption of caffeine to maintain alertness. However, the effects of prolonged wakefulness can impact cognitive function.
+
+Output:
+This text is likely AI-generated with 92.1% confidence.
+
+# Ai example 3:
+Cooking is a wonderful experience that brings joy to people. Making tamales is a fantastic tradition that many families enjoy, and it allows people to share delicious food together.
+
+Expected Output:
+This text is likely AI-generated with 89.8% confidence.
 
